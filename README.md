@@ -3,5 +3,5 @@
 
 ## Tools Used In This Template : 
 
-1- HTML5
-\n2- CSS3
+### 1- HTML5
+### 2- CSS3
